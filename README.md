@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Anurag  github stats](https://github-readme-stats.vercel.app/api?theme=cobalt&username=quanlook)](https://github.com/quanlook/github-readme-stats) 
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=quanlook&theme=dark&layout=compact)
